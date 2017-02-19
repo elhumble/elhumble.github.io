@@ -1,0 +1,21 @@
+---
+layout: default
+title: emily humble
+---
+
+<div>
+	<img src="/images/dolphins.jpg" style="width:590px">
+	<br><br>
+  <h1>blog</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
+<h1>projects</h1>
+  <ul class="posts">
+    <li>fur seal genomics phd: <a href="https://thehoffmanlab.com/group/emily-humble/">the hoffman lab</a> </li>
+    <li>manta genetics project: <a href="http://www.mantatrust.org/in-the-field/genetics/">manta trust</a> & <a href="http://saveourseas.com/project/da-manta-code/">save our seas foundation</a> </li>
+  </ul>
+</div>

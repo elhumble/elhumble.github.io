@@ -1,0 +1,10 @@
+# Site settings
+title: emilyhumble
+email: emily.lhumble@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Those who flow as life flows...
+url: "https://elhumble.github.io/" # the base hostname & protocol for your site
+github_username:  elhumble
+
+# Google services
+google_analytics: UA-57376155-3

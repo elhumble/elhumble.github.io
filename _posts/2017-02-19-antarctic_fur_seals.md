@@ -60,7 +60,7 @@ We walk back to base, and like most days, get distracted by the well fed and nur
 </figure>
 
 
-That night the fur seals wail and the winds thunder over the roof of the base. I lie awake imagining mothers foraging for their pups in the wild dark ocean. Despite years of intense study, there is so much that remains unknown.  
+That night the fur seals wail and the winds thunder over the roof of the base. I lie awake imagining mothers foraging for their pups in the wild dark ocean. Despite years of intense study, there is so much that remains unknown. 
 
 <font size="2">
 <br><b>References: </b><br>

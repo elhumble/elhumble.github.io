@@ -56,7 +56,7 @@ We walk back to base, and like most days, get distracted by the well fed and nur
 
 <figure>
     <img align="middle" src="/images/bird_island/260A3448.jpg" width="100%">
-    <figcaption><center><font size="2">Puppy pool party outside base</font></center></figcaption>
+    <figcaption><center><font size="2">Puppy pool party outside base. Image: John Dickens</font></center></figcaption>
 </figure>
 
 
